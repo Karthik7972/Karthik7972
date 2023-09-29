@@ -1,0 +1,143 @@
+.premium {
+  position: absolute;
+  top: 74px;
+  left: calc(50% - 58px);
+  letter-spacing: 0.4px;
+  line-height: 16px;
+  font-weight: 600;
+}
+.image-7-icon {
+  position: absolute;
+  top: 66px;
+  left: 33px;
+  width: 20.16px;
+  height: 20.16px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.audiobooks,
+.comics,
+.ebooks {
+  position: absolute;
+  top: 0;
+  letter-spacing: 0.02em;
+  line-height: 24px;
+  font-weight: 500;
+}
+.audiobooks {
+  left: calc(50% - 57.5px);
+  color: var(--color-orangered);
+}
+.comics,
+.ebooks {
+  cursor: pointer;
+}
+.comics {
+  left: calc(50% + 103.5px);
+}
+.ebooks {
+  left: 0;
+}
+.frame-child {
+  position: absolute;
+  top: 22px;
+  left: 118px;
+  border-bottom: 2px solid var(--color-orangered);
+  box-sizing: border-box;
+  width: 111px;
+  height: 4px;
+}
+.audiobooks-parent {
+  position: absolute;
+  top: 165px;
+  left: 39px;
+  width: 351px;
+  height: 24px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-darkslateblue);
+}
+.iphone-14-pro-max-4-child {
+  position: absolute;
+  top: 196px;
+  left: -1px;
+  border-top: 1px solid #333;
+  box-sizing: border-box;
+  width: 432px;
+  height: 2px;
+}
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  width: 153px;
+  height: 228px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.unsplashlspudv6iwsy-icon,
+.unsplashlspudv6iwsy-icon1,
+.unsplashnrqiv1lydem-icon {
+  position: absolute;
+  top: 0;
+  left: 158px;
+  width: 153px;
+  height: 228px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.unsplashlspudv6iwsy-icon1,
+.unsplashnrqiv1lydem-icon {
+  left: 316px;
+}
+.unsplashlspudv6iwsy-icon1 {
+  left: 474px;
+}
+.rectangle-group,
+.rectangle-parent {
+  position: absolute;
+  top: 226px;
+  left: 43px;
+  width: 387px;
+  height: 228px;
+  overflow-x: auto;
+}
+.rectangle-group {
+  top: 466px;
+  left: 33px;
+  width: 397px;
+}
+.rectangle-icon,
+.unsplashlspudv6iwsy-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 153px;
+  height: 228px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.rectangle-icon {
+  left: 316px;
+  border-radius: var(--br-3xs);
+}
+.unsplashlspudv6iwsy-parent {
+  position: absolute;
+  top: 706px;
+  left: 43px;
+  width: 387px;
+  height: 228px;
+  overflow-x: auto;
+}
+.iphone-14-pro-max-4 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: 25px;
+  color: #000;
+  font-family: var(--font-poppins);
+}
